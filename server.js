@@ -19,7 +19,7 @@ routes(app);
 // });
 
 // prod
-app.listen(process.env.PORT);
+app.listen(80);
 // app.listen(80, function () {
 //    console.log('Node.js listening on port 80...');
 // });
