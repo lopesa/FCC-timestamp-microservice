@@ -1,9 +1,15 @@
 {
-  "name": "Timestamper Service / boilerplate from clementinejs",
+  "name": "FCC-Timestamper-Service-exercise",
   "main": "server.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/johnstonbl01/clementinejs"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "5.0.0"
   },
   "keywords": [
     "MEAN",
