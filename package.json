@@ -5,6 +5,9 @@
     "type": "git",
     "url": "git+https://github.com/johnstonbl01/clementinejs"
   },
+  "engines": {
+    "node": "5.0.0"
+  }
   "keywords": [
     "MEAN",
     "Express",
