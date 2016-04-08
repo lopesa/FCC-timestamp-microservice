@@ -14,11 +14,11 @@ routes(app);
 
 
 // dev
-app.listen(3000, function () {
-   console.log('Node.js listening on port 3000...');
-});
+// app.listen(3000, function () {
+//    console.log('Node.js listening on port 3000...');
+// });
 
 // prod
-// app.listen(80, function () {
-//    console.log('Node.js listening on port 80...');
-// });
+app.listen(80, function () {
+   console.log('Node.js listening on port 80...');
+});
