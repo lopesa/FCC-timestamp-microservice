@@ -6,7 +6,7 @@
     "url": "git+https://github.com/johnstonbl01/clementinejs"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "node server.js"
   },
   "engines": {
     "node": "5.0.0"
