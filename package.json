@@ -12,11 +12,9 @@
     "node": "5.0.0"
   },
   "keywords": [
-    "MEAN",
     "Express",
     "Node",
-    "javascript",
-    "boilerplate"
+    "javascript"
   ],
   "author": "Tony Lopes / clementine from Blake Johnston",
   "license": "MIT",

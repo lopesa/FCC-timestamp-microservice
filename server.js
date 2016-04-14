@@ -15,19 +15,6 @@ app.set('port', (process.env.PORT || 5000));
 
 routes(app);
 
-
-// dev
-// app.listen(3000, function () {
-//    console.log('Node.js listening on port 3000...');
-// });
-
-// prod
-// app.listen(80);
-// app.listen(80, function () {
-//    console.log('Node.js listening on port 80...');
-// });
-
-//from example heroku app
 app.listen(app.get('port'), function() {
   console.log('Node app is running on port', app.get('port'));
 });
